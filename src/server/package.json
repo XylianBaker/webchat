@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "author": "Jan Kammellander",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.5.0",
+    "websocket": "^1.0.34"
+  }
+}
